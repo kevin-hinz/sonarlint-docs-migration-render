@@ -1,0 +1,7 @@
+## Quick Installation
+
+MOVED TO: GETTING-STARTED > INSTALLATION > ECLIPSE (TAB)
+
+## First taste of SonarLint
+
+MOVED TO: GETTING-STARTED > INSTALLATION > ECLIPSE (TAB)
