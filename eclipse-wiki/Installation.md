@@ -1,0 +1,15 @@
+CUT. IS DUPLICANT CONTENT AT THIS POINT
+
+## Online installation using the Eclipse Marketplace client
+
+CUT. IS DUPLICANT CONTENT AT THIS POINT
+
+MOVED TO: GETTING-STARTED > INSTALLATION > ECLIPSE (TAB) > QUICK INSTALLATION (HEADER)
+
+## Online installation using the Eclipse _Install New Software_ wizard
+
+MOVED TO: GETTING-STARTED > INSTALLATION > ECLIPSE (TAB) > NOTE: HEADER WILL BE RENAMED TO REFLECT NATURE OF "ADVANCED" PROCEEDURE
+
+## Offline installation using the Eclipse _Install New Software_ wizard
+
+MOVED TO: GETTING-STARTED > OFFLINE-INSTALLATION > ECLIPSE (TAB)
