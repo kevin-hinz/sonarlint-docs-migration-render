@@ -1,0 +1,15 @@
+# Overview
+
+MOVED TO: TEAM-FEATURES > BRANCH-AWARENESS > VISUAL-STUDIO-CODE (TAB)
+
+# How SonarLint decide what branch to use for sync.
+
+MOVED TO: TEAM-FEATURES > BRANCH-AWARENESS > VISUAL-STUDIO-CODE (TAB)
+
+# How to check what branches are analyzed on server
+
+MOVED TO: TEAM-FEATURES > BRANCH-AWARENESS > VISUAL-STUDIO-CODE (TAB)
+
+# PR analysis synchronization
+
+MOVED TO: TEAM-FEATURES > BRANCH-AWARENESS > VISUAL-STUDIO-CODE (TAB)
