@@ -1,0 +1,3 @@
+## How to get SonarLint for VSCode logs?
+
+MOVED TO: TROUBLESHOOTING > VISUAL-STUDIO-CODE (TAB) > (HEADER)
