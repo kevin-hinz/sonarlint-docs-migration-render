@@ -25,10 +25,10 @@ MOVED TO: GETTING-STARTED-REQUIREMENTS > VISUAL STUDIO-TAB
 MOVED TO: HOME > ABOUT SONARLINT > STANDALONE MODE
 
 #### Choosing which C#/VB.NET rules to run in Standalone mode
-The SonarC# and SonarVB rules are implemented as [Roslyn VSIX analyzers](https://docs.microsoft.com/en-us/visualstudio/code-quality/install-roslyn-analyzers?view=vs-2019), and you can configure which rules are executed using the normal [ruleset](https://docs.microsoft.com/en-us/visualstudio/code-quality/use-roslyn-analyzers?view=vs-2019#rule-sets) mechanism in VS.
+MOVED TO: GETTING-STARTED > RUNNING AN ANALYSIS > VISUAL STUDIO (TABBED) > DEFINE C# OR VB.NET RULES FOR LOCAL ANALYSIS (HEADER/COLLAPSE)
 
 #### Choosing which C/C++/JavaScript/TypeScript/Secrets detection rules to run in Standalone mode
-See [Choosing which C, C++, JavaScript, TypeScript or Secrets detection rules to run in Standalone mode](https://github.com/SonarSource/sonarlint-visualstudio/wiki/Choosing-which-C,-Cpp,-JavaScript,-TypeScript-or-Secrets-detection-rules-to-run-in-Standalone-mode)
+MOVED TO: GETTING-STARTED > RUNNING AN ANALYSIS > VISUAL STUDIO (TABBED) > DEFINE C, C++, JS, TS OR SECRETS DETECTION RULES FOR LOCAL ANAYSIS (HEADER/COLLAPSE)
 
 ### Connected mode
 
