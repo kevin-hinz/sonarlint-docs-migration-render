@@ -1,0 +1,22 @@
+MOVED TO: TEAM-FEATURES > CONNECTED-MODE > OVERVIEW (HEADER)
+
+MOVED TO: TEAM-FEATURES > CONNECTED-MODE > VS-CODE (TAB) > OVERVIEW (HEADER)
+
+## Connection Setup
+
+### SonarLint v3.8 and above
+
+MOVED TO: TEAM-FEATURES > CONNECTED-MODE > VS-CODE (TAB) > (HEADER)
+
+### Project Binding v3.8 and above
+
+MOVED TO: TEAM-FEATURES > CONNECTED-MODE > VS-CODE (TAB) > (HEADER)
+
+### SonarLint v3.7 and earlier
+
+MOVED TO: TEAM-FEATURES > CONNECTED-MODE > VS-CODE (TAB) > (HEADER)
+__________________________________
+
+### Project Binding
+
+MOVED TO: TEAM-FEATURES > CONNECTED-MODE > VS-CODE (TAB) > (HEADER)
