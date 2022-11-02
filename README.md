@@ -1,4 +1,7 @@
 # sonarlint-docs-migration-render
-Container to track and render SonarLint wiki docs to restructure before migration.
+This repository is a container to track the migration of and render the SonarLint wiki docs during its restructuring. 
 
-<img width="336" alt="image" src="https://user-images.githubusercontent.com/107544908/195879506-8d2628bc-3f48-464d-8cf1-a830068eed58.png">
+# Page plan
+A graphic explaining the Page tree/Section and page design for the integrated SonarLint documentation.
+
+<img width="336" alt="image" src="images/SonarLintDocs.svg">
